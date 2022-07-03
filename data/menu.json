@@ -1,0 +1,24 @@
+{
+  "it": [
+    { "label": "Home page", "href": "/", "type": "menu" },
+    { "label": "Chi siamo", "href": "/#_about", "type": "menu" },
+    { "label": "Il territorio", "href": "/territory", "type": "menu" },
+    { "label": "Prenota esperienza", "href": "/booking", "type": "shop" },
+    { "label": "Acquista tartufi", "href": "/shop", "type": "shop" },
+    { "label": "instagram", "href": "/booking", "type": "social" },
+    { "label": "get-your-guide", "href": "/shop", "type": "social" },
+    { "label": "airbnb", "href": "/shop", "type": "social" },
+    { "label": "Contatti", "href": "/contact", "type": "menu" }
+  ],
+  "en": [
+    { "label": "Home page", "href": "/", "type": "menu" },
+    { "label": "About", "href": "/#_about", "type": "menu" },
+    { "label": "The territory", "href": "/territory", "type": "menu" },
+    { "label": "Book the experience", "href": "/booking", "type": "shop" },
+    { "label": "Buy fresh truffles", "href": "/shop", "type": "shop" },
+    { "label": "instagram", "href": "/booking", "type": "social" },
+    { "label": "get-your-guide", "href": "/shop", "type": "social" },
+    { "label": "airbnb", "href": "/shop", "type": "social" },
+    { "label": "Contacts", "href": "/contact", "type": "menu" }
+  ]
+}
